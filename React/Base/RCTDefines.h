@@ -28,7 +28,7 @@
 #if DEBUG
 #define RCT_DEBUG 1
 #else
-#define RCT_DEBUG 0
+#define RCT_DEBUG 1
 #endif
 #endif
 
@@ -40,7 +40,7 @@
 #if DEBUG
 #define RCT_DEV 1
 #else
-#define RCT_DEV 0
+#define RCT_DEV 1
 #endif
 #endif
 
